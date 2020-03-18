@@ -8,7 +8,7 @@ Project created to scrape hoodies category on dresslily.com
 3. pip requirements stored in requirements.txt
 
 # Launch
-python3 <products_file_name.csv> <reviews_file_name.csv>
+python3 management.py <products_file_name.csv> <reviews_file_name.csv>
 result files would be in management folder
 
 ### helpers
