@@ -194,7 +194,8 @@ class ProxyHelper:
             proxies_list.extend(proxies_list_hardcoded)
         return proxies_list
 
-    def load_proxies_list(self, key):
+    @staticmethod
+    def load_proxies_list(key):
         '''Request to proxy service'''
         proxies_list = []
         try:
