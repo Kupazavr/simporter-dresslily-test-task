@@ -24,9 +24,9 @@ Package with helpers module
 1. dresslily.py - main scraping module with 2 classes (Scraper and Inner page parser)
 
 ### storage
-1.mongodb_storage.py - database module
+1. mongodb_storage.py - database module
 
 ### config.ini
-NAME, PRODUCTS_COLLECTION, IP, LOGIN, PASSWORD - database credentials
-TEST_ENV - If set as True, would connect to localhost
-proxy_key - best-proxies.ru proxy_key
+1. NAME, PRODUCTS_COLLECTION, IP, LOGIN, PASSWORD - database credentials
+2. TEST_ENV - If set as True, would connect to localhost
+3. proxy_key - best-proxies.ru proxy_key
