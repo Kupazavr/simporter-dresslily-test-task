@@ -9,7 +9,7 @@ Project created to scrape hoodies category on dresslily.com
 
 # Launch
 python3 management.py <products_file_name.csv> <reviews_file_name.csv>
-result files would be in management folder
+result files will be in management folder
 
 ### helpers
 Package with helpers module
