@@ -12,10 +12,10 @@ python3 management.py <products_file_name.csv> <reviews_file_name.csv>
 result files will be in management folder
 
 ### helpers
-1. helpers.ry - Package with helpers module
-2. downloader_helper.py - Requests library wrapper with proxy usage, errors handling, etc.
-3. helpers.py - single helper functions
-4. proxy_helper - Proxy error handlings, prioritization, filtering, etc.
+Package with helpers module
+1. downloader_helper.py - Requests library wrapper with proxy usage, errors handling, etc.
+2. helpers.py - single helper functions
+3. proxy_helper - Proxy error handlings, prioritization, filtering, etc.
 
 ### management
 1. management.py - main launch module
